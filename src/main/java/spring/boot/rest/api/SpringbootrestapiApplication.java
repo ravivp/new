@@ -13,7 +13,7 @@ public class SpringbootrestapiApplication extends SpringBootServletInitializer {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootrestapiApplication.class, args);
 	}
-
+                     /* return new RestTemplate(); */
 	
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder ApplicationBuilder ) {
 		
